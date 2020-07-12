@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Jett. I am a **python developer**, go developer, ios developer, and fullstack web developer.
+
+Visit my website: [jettchen.me](https://jettchen.me)
+
+- 🔭 I’m currently working on [encryptii](https://github.com/JettChenT/encryptii-server)
+- 🌱 I’m currently learning *ios development*
+- 📫 How to reach me: You can reach me via my public email: contact@jettchen.me
 
 <!--
 **JettChenT/JettChenT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
