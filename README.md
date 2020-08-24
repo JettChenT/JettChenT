@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Jett. I am a **python developer**, go developer, ios developer, and fullstack web developer.
-
 Visit my website: [jettchen.me](https://go.jettchen.me/996)
+
+[![Jett's github stats](https://github-readme-stats.vercel.app/api?username=JettChenT)]()
 
 - 🔭 I’m currently working on [encryptii](https://github.com/JettChenT/encryptii-server) and [scan-for-webcams](https://github.com/JettChenT/scan-for-webcams)
 - 🌱 I’m currently learning *ios development*
