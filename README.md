@@ -10,7 +10,7 @@ Visit my website: [jettchen.me](https://go.jettchen.me/996)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JettChenT&repo=encryptii-server)](https://github.com/JettChenT/encryptii-server)
 
 
-- 🌱 I’m currently learning *ios development*
+- 🌱 I’m currently learning *Artificial neural networks*
 - 📫 How to reach me: [my website](https://go.jettchen.me/996)
 
 <!--
