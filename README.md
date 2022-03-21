@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jett. I am a **python developer**, go developer, ios developer, and fullstack web developer.
+I'm Jett. I'm interesting in Machine Learning, InfoSec, and System Architecture.
 Visit my website: [jettchen.me](https://go.jettchen.me/996)
 
 [![Jett's github stats](https://github-readme-stats.vercel.app/api?username=JettChenT)]()
