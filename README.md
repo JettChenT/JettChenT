@@ -1,22 +1,20 @@
-## Hi there 👋 I'm Jett.
+# Hi there 👋 I'm Jett.
 
 Visit my website: [jettchen.me](https://go.jettchen.me/996)
 
 Visit my blog: [blog.jettchen.me](https://blog.jettchen.me)
 
+## About me
 I'm a highschool student, and spend my spare time messing around with software engineering and other related things, including:
 - Computer Graphics
 - Software architecture
 - Open Source Intelligence
-- Reverse Engineering
-- Web Application Security
 - Machine Learning
-- Quantitative Finance
 - CLI Development (huge fan of the unix philisophy!)
 
 I'm maintaining several opensource projects, including [scan-for-webcams](https://github.com/JettChenT/scan-for-webcams) (does what its name says) and [qali](https://github.com/JettChenT/qali) (create aliases on the fly in the terminal)
 
-Programming languages/ tech-stacks I've worked with:
+## Programming languages/ tech-stacks I've worked with:
 <details>
 
 <summary>TLDR: more than I probably need to</summary>
