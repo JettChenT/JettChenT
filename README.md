@@ -10,6 +10,7 @@ I'm a highschool student, and spend my spare time messing around with software e
 - Software architecture
 - Open Source Intelligence
 - Machine Learning
+- Programming Langauge Theory
 - CLI Development (huge fan of the unix philisophy!)
 
 I'm maintaining several opensource projects, including [scan-for-webcams](https://github.com/JettChenT/scan-for-webcams) (does what its name says) and [qali](https://github.com/JettChenT/qali) (create aliases on the fly in the terminal)
