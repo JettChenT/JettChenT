@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jett.
 
-Visit my website: [jettchen.me](https://go.jettchen.me/996)
+Visit my website: [jettchen.me](https://jettchen.me)
 
 Visit my blog: [blog.jettchen.me](https://blog.jettchen.me)
 
@@ -12,9 +12,17 @@ I'm a highschool student, and spend my spare time building and breaking software
 - Open Source Intelligence
 - Machine Learning
 - Programming Langauge Theory
-- CLI Development (huge fan of the unix philisophy!)
+- Command line / terminal interfaces
 
-## Working On
+## Selected Work
+
+### Products & Apps
 - [EarthKit](https://earthkit.app) : Nifty Toolkit for Geolocation with AI
-- [Burrow](https://github.com/hackclub/burrow) : Burrow through Firewalls!
-- [Scan For Webcams](https://github.com/JettChenT/scan-for-webcams) : OSINT tool for public IP webcams
+- [EarthKit Agent](https://agent.earthkit.app/) : Building the MultiModal Agent for Geolocation and Verification
+- [Million](https://million.dev/) (intern): YC'24; identify and fix slow code in React codebases, automatically
+
+### Open Source
+- [Scan For Webcams](https://github.com/JettChenT/scan-for-webcams) : OSINT tool for scanning public IP webcams
+- [Burrow](https://github.com/hackclub/burrow) : (HackClub) Burrow through Firewalls!
+- [TimeBlok](https://github.com/JettChenT/timeblok) : DSL for .. time blocking!
+- [WeChat Exporter](https://github.com/JettChenT/wechat-exporter) : Export your wechat chat history to json, sqlite, and more
